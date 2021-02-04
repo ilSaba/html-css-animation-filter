@@ -13,3 +13,48 @@
     width: 100%;
 }
 /* -----------esercizio 3--------- */
+.ex-3-square{
+  transition: 1s;
+}
+
+.ex-3-square:hover{
+  border-radius: 100%;
+}
+/* -----------esercizio 4--------- */
+.ex-4-square{
+  transition: 1s;
+}
+
+.ex-4-square:hover{
+  background: #F5F5F5;
+}
+/* -----------esercizio 5--------- */
+.ex-5-square{
+  transition: 1s;
+}
+
+.ex-5-square:hover{
+  margin: 0;
+  width: 130px;
+  height: 130px;
+}
+
+.ex-5-square:active{
+  margin: 40px;
+  width: 20px;
+  height: 20px;
+}
+/* -----------esercizio 6--------- */
+.ex-6-img:hover{
+  filter:grayscale(100%);
+}
+/* -----------esercizio 7--------- */
+
+.ex-7-img{
+  transition: 2s;
+}
+
+.ex-7-img:hover{
+  filter: sepia(50%);
+}
+/* -----------esercizio 8--------- */
